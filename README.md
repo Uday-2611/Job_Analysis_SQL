@@ -75,7 +75,17 @@ Query: [3_retention_analysis.sql](/3_retention_analysis.sql)
 
 ## Strategic Recommendations
 
-1. {insert strategic recommendations here}
+1. **High-Value Customer Retention:** Implement a loyalty program and personalized marketing campaigns to retain customers in the '3 - High Value' segment. Their high lifetime value (LTV) justifies a premium service model.
+
+2. **Mid-Value Customer Growth:** Develop targeted up-selling and cross-selling strategies to nurture '2 - Mid Value' customers. The goal is to increase their LTV and migrate them to the high-value segment.
+
+3. **Low-Value Customer Automation:** Utilize automated, low-touch engagement for the '1 - Low Value' segment to maintain brand presence without over-investing resources. Analyze acquisition channels for this segment to ensure profitability.
+
+4. **Cohort Performance Analysis:** Identify the characteristics and acquisition sources of high-performing cohorts (those with the highest revenue per customer). Replicate successful strategies across new customer acquisition campaigns.
+
+5. **Churn Mitigation:** For cohorts exhibiting high churn rates, conduct qualitative analysis (surveys, interviews) to understand the root causes. Proactively engage at-risk customers with targeted promotions or content before they reach the 6-month inactivity threshold.
+
+6. **Re-Engagement Campaigns:** Launch targeted re-engagement campaigns for customers identified as 'Churned'. These campaigns could include special "welcome back" offers or highlight new product features to win back their business.
 
 ## Technical Details 
 - **Database:** postgreSQL
