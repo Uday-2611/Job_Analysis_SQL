@@ -40,7 +40,7 @@ Query: [2_cohort_analysis.sql](/2_cohort_analysis.sql)
 
 ## Visualization
 
-![image_name](image_name.png)
+![query_2.png](/images/query_2.png)
 
 **Key Findings:**
 - Revenue per customer shows an alarming decreasing trend over time.
@@ -61,7 +61,7 @@ Query: [3_retention_analysis.sql](/3_retention_analysis.sql)
 
 ## Visualization
 
-![image_name](image_name.png)
+![query_3.png](/images/query_3.png)
 
 **Key Findings:**
 - Cohort churn stabilized at ~90% after 2-3 years, indicating a predictable long-term retention pattern. 
